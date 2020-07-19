@@ -4,3 +4,4 @@ var c=3;
 var d=4;
 var d=5;
 var f=6;
+var g="新加入的";
